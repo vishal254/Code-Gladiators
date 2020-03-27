@@ -1,0 +1,8 @@
+n=int(input())
+qnty=list(map(int,input().split()))
+labqnty= list(map(int,input().split()))
+arr=[]
+for i in range(n):
+    a=labqnty[i]//qnty[i]
+    arr.append(a)
+print(min(arr))

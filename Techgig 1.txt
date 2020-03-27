@@ -1,0 +1,15 @@
+N=int(input("Enter the value: "))
+qnty=list(map(int,input().split()))
+labqnty= list(map(int,input().split()))
+max=1000
+lab
+if m>max(:
+    print max()
+elif n>max:
+     print max()
+    
+elif o>max:
+    print max()
+else:
+    print min(m,n,o)
+    
